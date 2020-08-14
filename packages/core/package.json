@@ -1,0 +1,13 @@
+{
+  "name": "@xstatic/core",
+  "version": "0.0.0",
+  "license": "MIT",
+  "description": "a lightweight way to define statecharts, api compatible with xstate",
+  "dependencies": {},
+  "main": "build/index.js",
+  "module": "build/index.mjs",
+  "source": "src/index.ts",
+  "scripts": {
+    "start": "microbundle watch"
+  }
+}

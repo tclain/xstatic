@@ -1,0 +1,9 @@
+{
+  "name": "@xstatic/react",
+  "version": "0.0.0",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}

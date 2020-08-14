@@ -1,0 +1,14 @@
+{
+  "name": "@xstatic/debug",
+  "version": "0.0.0",
+  "license": "MIT",
+  "dependencies": {
+    "@xstatic/core": "^0.0.0"
+  },
+  "main": "build/index.js",
+  "module": "build/index.mjs",
+  "source": "src/index.ts",
+  "scripts": {
+    "start": "microbundle --watch"
+  }
+}
