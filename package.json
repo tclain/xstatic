@@ -13,5 +13,9 @@
   },
   "scripts": {
     "start": "lerna run start --parallel"
+  },
+  "dependencies": {
+    "jest": "^26.4.0",
+    "ts-jest": "^26.2.0"
   }
 }
